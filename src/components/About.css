@@ -1,0 +1,49 @@
+.img-container{
+    display: flex;
+    width: 490px;
+    height: 490px;
+    margin: auto 0;
+}
+
+.about{
+    position: relative;
+}
+
+.about-container{
+    gap: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.title2{
+    align-items: center;
+    text-align: center;
+}
+
+.icon{
+    width: 35px;
+    height: 35px;
+}
+
+.section-container{
+    gap: 64px;
+    height: 80%;
+}
+
+
+.about-detail-container, .about-container {
+    display: flex;
+}
+
+.about-detail-container{
+    justify-content: center;
+    flex-direction: column;
+}
+
+.detail-container{
+    padding: 1.5rem;
+    flex: 1;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-radius: 20px;
+    text-align: center;
+}
