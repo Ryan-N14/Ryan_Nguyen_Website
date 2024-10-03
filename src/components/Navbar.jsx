@@ -16,7 +16,6 @@ const Navbar = () => {
             <div>
                 <ul className="nav-link">
                     <li><a href="#about">About Me</a></li>
-                    <li><a href="#experience">Experience</a></li>
                     <li><a href="#project">Projects</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
@@ -32,7 +31,6 @@ const Navbar = () => {
                 </div>
                 <div className={`mobile-links ${menuOpen ? "open" : ""}`}>
                     <li><a href="#about">About Me</a></li>
-                    <li><a href="#experience">Experience</a></li>
                     <li><a href="#project">Projects</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </div>

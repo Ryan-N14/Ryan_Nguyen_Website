@@ -3,7 +3,7 @@ import './Profile.css';
 
 const Profile = () => {
     return (
-        <section className='profile'>
+        <section className='profile' id='profile'>
                 <div className='section-profile-img'>
                     <img src="images/Circle_photo-Photoroom.png" alt="" />
                 </div>
@@ -14,6 +14,16 @@ const Profile = () => {
                     <div className='button_container'>
                         <button className='btn1'>Download CV</button>
                         <button className='btn2'>Contact Info</button>
+                    </div>
+                    <div className='social-container'>
+                        <a href="http://linkedin.com/in/ryan-nguyen-629774239" target="_blank" rel="noopener noreferrer">
+                            <img src="images/linkedin.png" alt="Linked-in Icon" className='social-icon'/>
+                        </a>
+
+                        <a href="https://github.com/Ryan-N14" target="_blank" rel="noopener noreferrer">
+                            <img src="images/github.png" alt="Github Icon" className='social-icon'/>
+                        </a>
+                        
                     </div>
                 </div>
         </section>

@@ -12,6 +12,7 @@ nav {
     list-style: none;
     gap: 2rem;
     font-size: 1.5rem;
+    font-weight: 500;
 }
 
 a {

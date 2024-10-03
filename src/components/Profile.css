@@ -64,3 +64,15 @@
     background-color: black;
     color: white;
 }
+
+.social-container{
+    margin-top: 0.8rem;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.social-icon{
+    width: 40px;
+    height: 40px;
+}
