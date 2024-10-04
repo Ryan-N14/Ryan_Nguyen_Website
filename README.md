@@ -6,7 +6,7 @@ This web app: **This is a responsive portfolio website built using ReactJS to sh
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNmNjU5NHcyODUwMjJjcGYwcTZ6NTU1NXl1OWF3ajJ0OTZrZHRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/urLS8xBX3obiHmMwWr/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNmNjU5NHcyODUwMjJjcGYwcTZ6NTU1NXl1OWF3ajJ0OTZrZHRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/urLS8xBX3obiHmMwWr/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjgwbXhzZ3l0d2M3YzE1Njk2cm9oaWl6Y2FiYnFldXdqc2FuMzdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EOcpzaeBqqJChSSlTC/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
