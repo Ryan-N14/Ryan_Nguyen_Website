@@ -2,6 +2,10 @@ import React from 'react'
 import './Profile.css';
 
 const Profile = () => {
+    const openPDF = () => {
+        window.open("/Nguyen_Resume.pdf")
+    }
+
     return (
         <section className='profile' id='profile'>
                 <div className='section-profile-img'>
@@ -12,8 +16,8 @@ const Profile = () => {
                     <h1 className='title'>Ryan Nguyen</h1>
                     <p className='text_p2'>Full-stack Developer</p>
                     <div className='button_container'>
-                        <button className='btn1'>Download CV</button>
-                        <button className='btn2'>Contact Info</button>
+                        <button onClick={openPDF} className='btn1'>Download CV</button>
+                        <a href="#contact"><button className='btn2'>Contact Info</button></a>
                     </div>
                     <div className='social-container'>
                         <a href="http://linkedin.com/in/ryan-nguyen-629774239" target="_blank" rel="noopener noreferrer">

@@ -33,7 +33,7 @@ const About = () => {
                     <div className='skill-container'>
                         <div className='about-container'>
                             <div className='detail-container'>
-                                <h2>Technical Skills</h2>
+                                <h2 className='skill_text'>Technical Skills</h2>
                                 <div className='article-container'>
                                     <article>
                                         <img src="images/check.png" alt="check mark" className='check-mark' />

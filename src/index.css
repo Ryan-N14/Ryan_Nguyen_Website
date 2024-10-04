@@ -24,3 +24,118 @@ section{
 html{
     scroll-behavior: smooth;
 }
+
+@media screen and (max-width: 1400px){
+    #profile{
+        height: 83vh;
+        margin-bottom: 6rem;
+    }
+
+    .about-container{
+        flex-wrap: wrap;
+    }
+}
+
+
+@media screen and (max-width: 1200px){
+    .desktop-nav{
+        display: none;
+    }
+
+    .mobile-nav{
+        display: flex;
+    }
+
+    #experience{
+        margin-top: 2rem;
+    }
+
+    #profile, .section-container{
+        display: block;
+    }
+
+    section, .section-container{
+        height: fit-content;
+    }
+
+    section{
+        margin: 0 5%;
+    }
+
+    .section-profile-img, .img-container{
+        width: 275px;
+        height: 275px;
+        margin: 0 auto 1rem;
+    }
+
+    .about-container{
+        margin-top: 0;
+    }
+
+}
+
+
+@media screen and (max-width: 600px){
+    .contact, footer {
+        height: 40vh;
+
+    }
+
+    #profile{
+        height: 83vh;
+        margin-bottom: 0;
+    }
+
+    article{
+        font-size: 1rem;
+    }
+    footer nav{
+        height: fit-content;
+        margin-bottom: 2rem;
+    }
+
+    .about-container, .info-upper-container, .button-container{
+        flex-wrap: wrap;
+
+    }
+
+
+    .info-container{
+        margin: 0;
+    }
+
+    .info-container p, .nav-link li a{
+        font-size: 1rem;
+    }
+
+    .skill_text{
+        font-size: 1.25rem;
+    }
+
+    .name-logo{
+        font-size: 1.5rem;
+    }
+
+    .nav-link{
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    .section-profile-img, .img-container{
+       width: auto;
+       height: 46vw;
+       justify-content: center;
+    }
+    
+    .text_p2{
+        font-size: 1.5rem;
+    }
+
+    .title{
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+
+
+}

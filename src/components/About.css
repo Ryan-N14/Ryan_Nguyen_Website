@@ -7,6 +7,8 @@
 
 .about{
     position: relative;
+    padding: 0;
+    padding-top: 2rem;
 }
 
 .about-container{
@@ -38,6 +40,7 @@
 .about-detail-container{
     justify-content: center;
     flex-direction: column;
+    margin-bottom: 3rem;
 }
 
 .detail-container{
