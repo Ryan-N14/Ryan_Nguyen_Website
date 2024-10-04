@@ -4,7 +4,7 @@ This web app: **This is a responsive portfolio website built using ReactJS to sh
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough:
 
 <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjgwbXhzZ3l0d2M3YzE1Njk2cm9oaWl6Y2FiYnFldXdqc2FuMzdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EOcpzaeBqqJChSSlTC/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
